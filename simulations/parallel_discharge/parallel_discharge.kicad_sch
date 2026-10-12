@@ -1440,7 +1440,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 104.14 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1764,7 +1764,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 90.17 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1846,7 +1846,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 118.11 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2320,7 +2320,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 76.2 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2562,7 +2562,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "1k"
 			(at 132.08 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
